@@ -14,6 +14,7 @@ _   _           _     _
 ## Install 📌##
 #############
 ❤❤❤❤❤❤❤❤❤❤❤
+
 $ apt update && apt upgrade 
 
 $ pkg install git
