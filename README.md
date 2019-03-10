@@ -23,6 +23,8 @@ $ pkg install git
 
 $ pkg install nodejs 
 
+$ npm install -g color
+
 $ git clone https://github.com/rootM3eX/Hashter/
 
 $ cd Hashter 
@@ -32,16 +34,28 @@ $ node ter.js
 ############################
 ## Hash : 
 • Md2
+
 • Md4
+
 • Md5
+
 • Sha1
+
 • Sha256
+
 • Sha384
+
 • Sha512
+
 • RIPEMD 128
+
 • RIPEMD 160
+
 • RIPEMD 256
+
 • RIPEMD 320
+
 • WHIRLPOOL
+
 ######
 ############################
